@@ -1,0 +1,9 @@
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.config
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.pdb
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csprojResolveAssemblyReference.cache
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Form1.resources
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Properties.Resources.resources
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csproj.GenerateResource.Cache
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe
+c:\users\ziyaad\documents\visual studio 2012\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.pdb
